@@ -1,6 +1,6 @@
 module Dijit
   MAJOR = 1
-  MINOR = 8
-  TINY = 4
+  MINOR = 9
+  TINY = 2
   VERSION = [MAJOR, MINOR, TINY].compact.join(".")
 end
